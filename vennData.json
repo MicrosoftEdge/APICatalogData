@@ -1,4 +1,4 @@
-var sets = [
+[
 { "sets": [0], "label": "Specifications", "size":10979, "lookup": "Specifications" },
 { "sets": [1], "label": "Microsoft Edge", "size":7603, "lookup": "Microsoft Edge" },
 { "sets": [2], "label": "Google Chrome", "size":7903, "lookup": "Google Chrome" },
