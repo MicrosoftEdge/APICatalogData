@@ -1,11 +1,11 @@
 [
-{ "sets": [0], "label": "Specifications", "size":11983, "lookup": "Specifications" },
+{ "sets": [0], "label": "Specifications", "size":11987, "lookup": "Specifications" },
 { "sets": [1], "label": "Microsoft Edge", "size":7919, "lookup": "Microsoft Edge" },
 { "sets": [2], "label": "Google Chrome", "size":9565, "lookup": "Google Chrome" },
 { "sets": [3], "label": "Mozilla Firefox", "size":9500, "lookup": "Mozilla Firefox" },
 { "sets": [4], "label": "Apple Safari", "size":24065, "lookup": "Apple Safari" },
 { "sets": [0, 1], "size":5184 },
-{ "sets": [0, 2], "size":6918 },
+{ "sets": [0, 2], "size":6926 },
 { "sets": [0, 3], "size":6730 },
 { "sets": [0, 4], "size":4280 },
 { "sets": [1, 2], "size":5779 },
