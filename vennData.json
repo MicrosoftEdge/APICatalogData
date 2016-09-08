@@ -4,7 +4,7 @@
 { "sets": [2], "label": "Google Chrome", "size":10189, "lookup": "Google Chrome" },
 { "sets": [3], "label": "Mozilla Firefox", "size":10149, "lookup": "Mozilla Firefox" },
 { "sets": [4], "label": "Apple Safari", "size":7193, "lookup": "Apple Safari" },
-{ "sets": [5], "label": "Microsoft Internet Explorer", "size":5960, "lookup": "Microsoft Internet Explorer" },
+{ "sets": [5], "label": "Internet Explorer", "size":5960, "lookup": "Internet Explorer" },
 { "sets": [0, 1], "size":5200 },
 { "sets": [0, 2], "size":7169 },
 { "sets": [0, 3], "size":6941 },
